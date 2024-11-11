@@ -1,0 +1,27 @@
+.goit2 {
+    color: purple;
+}
+
+.goit2:hover {
+    background-color: black;
+    color: white;
+}
+
+.goit1 {
+    font-size: 20px;
+}
+
+.test h1 {
+    background-color: black;
+    color: white;
+}
+
+.test h1:hover {
+    background-color: blue;
+    font-size: 40px;
+}
+
+div #arac li {
+    font-size: 25px;
+
+}
